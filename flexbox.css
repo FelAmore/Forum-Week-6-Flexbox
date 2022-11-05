@@ -81,18 +81,3 @@ body{
     border-radius: 5px;
     width: 180px;
 }
-.footing{
-    background-color: #FDBEBE;
-    color: #ffffff;
-    margin-bottom: 30px;
-    padding: 30px 0 30px 0;
-    grid-column: 1/-1;
-    text-align: center;
-}
-.footing>h2{
-    font-weight: 400;
-    font-size: 95px;
-    letter-spacing: 10px;
-    margin-bottom: 10px;
-    font-family: 'Georgia',sans-serif;
-}

@@ -48,31 +48,31 @@ body{
     border-radius: 15px 15px 0 0;
 }
 
-.details{
+.description{
     padding: 20px 10px;
     display: grid;
     grid-template-rows: auto 1fr 50px;
     grid-row-gap: 15px;
 }
-.details-sub{
+.description-sub{
     display: grid;
     grid-template-columns: auto auto;
 }
-.details-sub>h5{
+.description-sub>h5{
     font-weight: 600;
     font-size: 18px;
 }
 .price{
     text-align: right;
 }
-.details>p{
+.description>p{
     color: #6f6f6f;
     font-size: 15px;
     line-height: 28px;
     font-weight: 400;
     align-self: stretch;
 }
-.details>button{
+.description>button{
     background-color: #E98793;
     border: none;
     color: #ffffff;
